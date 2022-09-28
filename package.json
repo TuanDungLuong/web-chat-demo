@@ -2,7 +2,7 @@
   "name": "react-chat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tuandungluong.github.io/chat-website-demo",
+  "homepage": "https://tuandungluong.github.io/chat-website-demo-ngon",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
